@@ -1,0 +1,11 @@
+C:\Archive\Study\Учеба\ИЗ\лр34\ExpertSystem_Genshin\bin\Debug\ExpertSystem_Genshin.exe.config
+C:\Archive\Study\Учеба\ИЗ\лр34\ExpertSystem_Genshin\bin\Debug\ExpertSystem_Genshin.exe
+C:\Archive\Study\Учеба\ИЗ\лр34\ExpertSystem_Genshin\bin\Debug\ExpertSystem_Genshin.pdb
+C:\Archive\Study\Учеба\ИЗ\лр34\ExpertSystem_Genshin\obj\Debug\ExpertSystem_Genshin.csproj.AssemblyReference.cache
+C:\Archive\Study\Учеба\ИЗ\лр34\ExpertSystem_Genshin\obj\Debug\ExpertSystem_Genshin.csproj.SuggestedBindingRedirects.cache
+C:\Archive\Study\Учеба\ИЗ\лр34\ExpertSystem_Genshin\obj\Debug\ExpertSystem_Genshin.Form1.resources
+C:\Archive\Study\Учеба\ИЗ\лр34\ExpertSystem_Genshin\obj\Debug\ExpertSystem_Genshin.Properties.Resources.resources
+C:\Archive\Study\Учеба\ИЗ\лр34\ExpertSystem_Genshin\obj\Debug\ExpertSystem_Genshin.csproj.GenerateResource.cache
+C:\Archive\Study\Учеба\ИЗ\лр34\ExpertSystem_Genshin\obj\Debug\ExpertSystem_Genshin.csproj.CoreCompileInputs.cache
+C:\Archive\Study\Учеба\ИЗ\лр34\ExpertSystem_Genshin\obj\Debug\ExpertSystem_Genshin.exe
+C:\Archive\Study\Учеба\ИЗ\лр34\ExpertSystem_Genshin\obj\Debug\ExpertSystem_Genshin.pdb
